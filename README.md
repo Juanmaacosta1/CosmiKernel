@@ -1,4 +1,4 @@
-# CosmiKernel
+# CosmiKernel GRUPO CHISPITA
 
 ![Diagrama de flujo del juego CosmiKernel](comik_500x500.png)
 
@@ -166,3 +166,11 @@ Cuando el combustible de una estación llega a cero, esta se desactiva de forma 
 
 ### Agujeros negros
 * Zonas de gravedad que atraen naves, aumentan drásticamente el consumo de combustible o destruyen la nave y todos sus recursos por completo.
+
+## Asignación de Responsabilidades
+
+| Integrante(s) | Componente Asignado |
+| :--- | :--- |
+| **Juan Acosta** | Estación Espacial |
+| **Bruno Muñoz y Joaquin Vargas** | Nave Espacial |
+| **Nerea Toledo y Juliana Martin** | Servidor Central |
