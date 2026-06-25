@@ -1,6 +1,6 @@
 # CosmiKernel
 
-![Diagrama de flujo del juego CosmiKernel](comik_500x500.jpg)
+![Diagrama de flujo del juego CosmiKernel](comik_500x500.png)
 
 ## Introducción
 
